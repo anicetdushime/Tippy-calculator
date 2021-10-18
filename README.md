@@ -18,7 +18,9 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * [ ] Custom colors palette selected
-* [ ] List anything else that you did to improve the app functionality or design!
+* [ ] Included emojis in the Tip description section
+* [ ] Included custom image as background
+* [ ] Customized colors and font sizes to improve interface
 
 ## Video Walkthrough
 
@@ -32,9 +34,13 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
+Getting used to handling the different components from the get go was kind of hard to pick up. 
+Debugging when I had some errors was kind of a challenge because the descriptions were not as clear. 
+
+
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2021] [Anicet Dushime Wa Mungu]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
